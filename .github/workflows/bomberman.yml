@@ -1,0 +1,31 @@
+name: Generate Bomberman contribution game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate Bomberman SVG files
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: FarhanZulkarnainHarahap
+          games: bomberman
+
+      - name: Publish SVG files to the arcade-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: arcade-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -42,4 +42,8 @@
 
 ![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/output/github-contribution-grid-snake.svg)
 
+### 💣 Bomberman Contribution Game
+
+![Bomberman Contribution Game](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/arcade-output/bomberman-contribution-graph.svg)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer)
