@@ -1,6 +1,6 @@
 # Farhan Zulkarnain Harahap
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Farhan%20Zulkarnain%20Harahap&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:1D4ED8,100:38BDF8&height=220&section=header&text=Farhan%20Zulkarnain%20Harahap&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Fullstack%20Web%20Developer&descAlignY=62&descSize=18)
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Crafting+clean+and+friendly+interfaces;Learning+something+new+every+day)
 
@@ -20,7 +20,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FarhanZulkarnainHarahap)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farhan.nexxus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-zulkarnain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-zulkarnain-harahap)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxusftfz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanzulkarnaenhrp@gmail.com)
 
