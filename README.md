@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanZulkarnainHarahap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=FarhanZulkarnainHarahap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanZulkarnainHarahap&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=FarhanZulkarnainHarahap&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📈 Contribution Activity
 
