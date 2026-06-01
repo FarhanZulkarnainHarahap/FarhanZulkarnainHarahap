@@ -62,7 +62,7 @@ Interactive calendar with a pixel-art interface, date navigation, local time, we
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FarhanZulkarnainHarahap&theme=tokyo-night&hide_border=true&area=true)
 
-## 🕹️ Contribution Game
+## 🕹️ Play Game With Me
 
 ### 💣 Bomberman
 
