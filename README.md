@@ -1,5 +1,7 @@
 # Farhan Zulkarnain Harahap
 
+### Full Stack Web Developer
+
 [![Animated Galaxy Banner](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/main/assets/galaxy-banner.gif)](https://id.pinterest.com/pin/887983251531458265/)
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Crafting+clean+and+friendly+interfaces;Learning+something+new+every+day)
