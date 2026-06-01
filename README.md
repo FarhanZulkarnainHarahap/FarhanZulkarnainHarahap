@@ -1,6 +1,6 @@
 # Farhan Zulkarnain Harahap
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:1D4ED8,100:38BDF8&height=220&section=header&text=Farhan%20Zulkarnain%20Harahap&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Fullstack%20Web%20Developer&descAlignY=62&descSize=18)
+[![Animated Galaxy Banner](https://i.pinimg.com/originals/ca/92/06/ca92068e40ef52cadf49ea1d0a98bf6c.gif)](https://id.pinterest.com/pin/887983251531458265/)
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Crafting+clean+and+friendly+interfaces;Learning+something+new+every+day)
 
