@@ -1,6 +1,6 @@
 [![Farhan Zulkarnain Harahap - Full Stack Web Developer](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/main/assets/galaxy-banner.gif)](https://id.pinterest.com/pin/887983251531458265/)
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Crafting+clean+and+friendly+interfaces;Learning+something+new+every+day)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+modern+web+applications;Crafting+clean+and+friendly+interfaces;Learning+something+new+every+day)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=FarhanZulkarnainHarahap&label=Profile%20Views&color=2563EB&style=for-the-badge)](https://github.com/FarhanZulkarnainHarahap)
 [![GitHub Followers](https://img.shields.io/github/followers/FarhanZulkarnainHarahap?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0F172A)](https://github.com/FarhanZulkarnainHarahap?tab=followers)
