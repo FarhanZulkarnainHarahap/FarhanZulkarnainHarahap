@@ -38,13 +38,19 @@ Modern grocery web application built with Next.js. It includes product browsing,
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://market-snap.vercel.app)
 [![Backend API](https://img.shields.io/badge/Backend_API-2563EB?style=for-the-badge&logo=express&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/Market-Snap-Api)
 
-### 🛍️ Nexxora E-commerce
+### 🛍️ Nexxora Store
 
-Responsive e-commerce platform with a product catalog, search, cart, profile, orders, notifications, authentication, and API integration.
+Modern e-commerce storefront with a responsive shopping experience, product catalog, search, cart, account features, and integrated ordering flow.
+
+![Private Source](https://img.shields.io/badge/Source_Code-Private-6B7280?style=for-the-badge&logo=github&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nexxora-store.vercel.app/)
+
+### 📅 Pixel Calendar
+
+Interactive calendar with a pixel-art interface, date navigation, local time, weather details, and holiday information.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/callender)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://callender-psi.vercel.app)
-[![Backend API](https://img.shields.io/badge/Backend_API-2563EB?style=for-the-badge&logo=express&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/callender-api)
 
 ## 📊 GitHub Stats
 
