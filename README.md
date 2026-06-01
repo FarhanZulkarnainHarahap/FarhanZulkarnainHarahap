@@ -21,12 +21,30 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FarhanZulkarnainHarahap)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farhan.nexxus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-zulkarnain)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@NexxusFz)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxusftfz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanzulkarnaenhrp@gmail.com)
 
 ## 💻 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,threejs,postgres,mongodb,supabase,prisma,git,github,githubactions,figma,aws,vercel,npm&perline=11)
+
+## 🚀 Featured Projects
+
+### 🛒 Market-Snap
+
+Modern grocery web application built with Next.js. It includes product browsing, search, cart management, and an easy checkout experience.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/Market-Snap)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://market-snap.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-2563EB?style=for-the-badge&logo=express&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/Market-Snap-Api)
+
+### 🛍️ Nexxora E-commerce
+
+Responsive e-commerce platform with a product catalog, search, cart, profile, orders, notifications, authentication, and API integration.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/callender)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://callender-psi.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-2563EB?style=for-the-badge&logo=express&logoColor=white)](https://github.com/FarhanZulkarnainHarahap/callender-api)
 
 ## 📊 GitHub Stats
 
@@ -40,10 +58,8 @@
 
 ## 🕹️ Contribution Game
 
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/output/github-contribution-grid-snake.svg)
+### 💣 Bomberman
 
-### 💣 Bomberman Contribution Game
-
-![Bomberman Contribution Game](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/arcade-output/bomberman-contribution-graph.svg)
+![Bomberman Contribution Game](https://raw.githubusercontent.com/FarhanZulkarnainHarahap/FarhanZulkarnainHarahap/arcade-output/bomberman-contribution-graph-dark.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer)
